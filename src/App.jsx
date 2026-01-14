@@ -136,8 +136,8 @@ const App = () => {
                 <img src="/myphoto.png" alt="logo" className="w-full h-full object-cover"/>
              </div>
              <div>
-               <h1 className="font-bold text-lg leading-none">RITESH DHARA</h1>
-               <span className="text-xs text-orange-500 font-mono">TRADING JOURNAL HELPER</span>
+               <h1 className="font-bold text-lg leading-none">TRADING JOURNAL HELPER</h1>
+               <span className="text-xs text-orange-500 font-mono">by Ritesh Dhara</span>
              </div>
           </div>
           <div className="flex items-center gap-4">
